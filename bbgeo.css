@@ -8,11 +8,26 @@ p {
 div {
     background-color: teal;
     width: 500px;
-    height: 400px;
+    height: 100px;
     margin: 30px;
     padding: 20px;
     font-family: Arial, sans-serif;
     font-size: 28px;
     font-weight: bold;
     border: 3px dotted red;
+}
+#top {
+  font-size: 36px;
+}
+
+#mid {
+  font-size: 24px;
+}
+
+#bottom {
+  font-size: 18px;
+}
+
+.name {
+  font-weight: lighter;
 }
